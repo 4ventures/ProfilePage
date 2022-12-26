@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Yashaswini
+<div id="center-set"> - By Yashaswini SP
 <div id="signup">
 <div id="signup-st">
 <div align="center">
